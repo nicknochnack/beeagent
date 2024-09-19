@@ -1,0 +1,6 @@
+node_modules
+bee-agent-framework
+.env
+yarn.lock
+test.ts
+tmp
